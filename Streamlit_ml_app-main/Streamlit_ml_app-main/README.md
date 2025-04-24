@@ -105,5 +105,5 @@ If you want to contribute to this project, feel free to open an issue or submit 
 4. Commit and push your changes.
 5. Create a pull request.
 ---
-Author: Tanmay Singh
+Author: Ishika Verma
 
